@@ -1,3 +1,11 @@
+/****   akhilzid   ***/
+
+/** Servo Controller Based On Arduino
+ *  Geared DC Motor + Potentiometer
+ *  L298 H-Bridge
+ *  That Can be Controlled Using Common RC Transmitter (PWM 1000 to 2000)
+ */
+ 
 int potPin = 19;
 
 int motor_p1 = 7;
